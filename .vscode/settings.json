@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Asus\\Downloads\\mysql-connector-j-9.7.0\\mysql-connector-j-9.7.0\\mysql-connector-j-9.7.0.jar",
+        "c:\\Users\\Asus\\Downloads\\Gym_Management_System_Project\\lib\\mysql-connector-j-9.7.0.jar"
+    ]
+}
